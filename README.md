@@ -12,15 +12,8 @@ Before diving into the magic of MPC with Yehuda Lindell, make sure your local en
 
 The hands-on portion of this workshop involves working with Coinbase’s open-source MPC engine, so some tooling needs to be installed ahead of time.
 
-📄 **Step-by-step setup guide:**  
-[→ Workshop Preparation Guide](https://github.com/web3-devs-underground/online-mpc-deepdive-lindell-yehuda-2025-06-26/blob/main/Workshop%20Preparation.md)
+#### **Step-by-step setup guide:** [→ Workshop Preparation Guide](https://github.com/web3-devs-underground/online-mpc-deepdive-lindell-yehuda-2025-06-26/blob/main/Workshop%20Preparation.md)
 
-Inside the guide, you’ll find:
-- ✅ How to clone the repo and fetch submodules
-- 💻 OS-specific instructions for setting up OpenSSL
-- ⚙️ Required compilers for C++ and Golang
-- 📦 Git LFS setup for accessing documentation
-- 🧪 How to build and test the demos
 
 We highly recommend completing this setup before the event to get the most out of the live session.
 
